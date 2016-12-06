@@ -1,2 +1,3 @@
 1. Status datotek pred shranjevanjem: untracked
 2. Status datotek pred shranjevanjem: modified
+3. Status datoteke tmp.txt pred shranjevanjem: deleted
